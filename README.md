@@ -1,2 +1,2 @@
-# -dev3
+# odev3
 Tarif kitabı html ödevi
